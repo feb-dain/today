@@ -1,4 +1,4 @@
-# today
+# Today
 🎞 Movie app with React
 <br>
 <br>
