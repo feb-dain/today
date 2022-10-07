@@ -1,5 +1,5 @@
 # Today
-🎞 Movie app with React
+🎞 Movie information website with React
 <br>
 <br>
 
